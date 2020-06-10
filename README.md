@@ -12,7 +12,8 @@ yarn install
 
 ### Configure env vars
 
-Copy .env.sample content into .env file and feel free to customize with your params, otherwise just use provided
+Copy .env.sample content into .env file and feel free to customize with your
+params, otherwise just use provided
 
 ### Start ios app and server
 
