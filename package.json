@@ -28,7 +28,7 @@
     "expo-web-browser": "^8.2.1",
     "firebase": "7.9.0",
     "immer": "^6.0.9",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lottie-react-native": "~2.6.1",
     "moment": "^2.25.3",
     "query-string": "^6.12.1",
