@@ -27,7 +27,7 @@
     "expo-splash-screen": "^0.2.3",
     "expo-web-browser": "^8.2.1",
     "firebase": "7.9.0",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "lodash": "^4.17.15",
     "lottie-react-native": "~2.6.1",
     "moment": "^2.25.3",
